@@ -219,6 +219,3 @@ public class CreateDocument {
         } 
     }
 }
-
-// javac -cp D:\vsyakoe\prrr77\ghjuu\gfh\apache\* CreateDocument.java
-// java -cp .;D:\vsyakoe\prrr77\ghjuu\gfh\apache\* CreateDocument
